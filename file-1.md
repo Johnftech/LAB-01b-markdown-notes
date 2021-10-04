@@ -1,3 +1,3 @@
 ## other file
 
-file update with additional text
+file update
